@@ -29,7 +29,7 @@ const HomePage = () => {
             <Card className="clickable-box">
               {/* Use inline style or CSS classes for background images */}
               <Card.Img
-                src="placeholder-background-1.jpg"
+                src="../public/myweekpic.png"
                 alt="Box 1"
                 className="box-image"
               />
